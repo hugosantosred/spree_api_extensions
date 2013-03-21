@@ -1,0 +1,2 @@
+object @tax_rates
+attributes *tax_rate_attributes
