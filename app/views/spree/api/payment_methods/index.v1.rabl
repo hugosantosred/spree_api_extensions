@@ -1,0 +1,2 @@
+object @payment_methods
+attributes *payment_method_attributes
