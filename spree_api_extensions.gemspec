@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_api_extensions'
-  s.version     = '2.0'
+  s.version     = '2.1'
   s.summary     = 'Spree Api Extensions'
   s.description = 'Spree Api Extensions'
   s.required_ruby_version = '>= 1.8.7'
@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 2.0'
+  s.add_dependency 'spree_core', '~> 2.1'
 
 end

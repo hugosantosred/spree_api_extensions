@@ -1,0 +1,2 @@
+object @tax_categories
+attributes *tax_category_attributes
